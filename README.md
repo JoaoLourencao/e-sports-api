@@ -16,7 +16,7 @@ discord
 weekDays
 hourStart
 hourEnd
-userVoiceChannel
+useVoiceChannel
 createdAt
 
 ## Casos de uso
